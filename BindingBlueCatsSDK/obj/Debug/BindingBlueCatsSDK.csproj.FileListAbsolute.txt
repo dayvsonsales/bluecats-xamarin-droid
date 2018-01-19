@@ -1,0 +1,8 @@
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/obj/Debug/BindingBlueCatsSDK.csproj.CoreCompileInputs.cache
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/bin/Debug/BindingBlueCatsSDK.dll
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/bin/Debug/BindingBlueCatsSDK.pdb
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/obj/Debug/BindingBlueCatsSDK.dll
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/obj/Debug/BindingBlueCatsSDK.pdb
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/bin/Debug/GsonBinding.dll
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/bin/Debug/GsonBinding.pdb
+/Users/dayvsonsales/Projects/BindingBlueCatsSDK/BindingBlueCatsSDK/obj/Debug/BindingBlueCatsSDK.csprojResolveAssemblyReference.cache
